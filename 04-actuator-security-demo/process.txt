@@ -1,0 +1,3 @@
+1. Edit pom.xml and ass spring-boot-starter-security
+2. verify security on actuator endpoints for : /beans etc
+3. disable endpoints for /health and / info
