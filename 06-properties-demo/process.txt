@@ -1,0 +1,4 @@
+Step 1: Define custome properties in application.properties
+step2: inject properties into spring boot application using @Value("${propertyname})
+
+step 3: to get the team info create new end point.
